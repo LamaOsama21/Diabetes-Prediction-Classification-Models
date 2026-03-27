@@ -53,7 +53,7 @@ Each model is evaluated using:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Diabetes-Prediction-Classification-Models.git
+git clone https://github.com/LamaOsama21/Diabetes-Prediction-Classification-Models.git
 cd Diabetes-Prediction-Classification-Models
 ```
 
@@ -79,4 +79,4 @@ See `requirements.txt` for all dependencies.
 
 ##  Author
 
-Made with as part of a university project.
+Made with Lama Lubbad.
